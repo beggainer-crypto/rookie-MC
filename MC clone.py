@@ -86,8 +86,8 @@ class Sky(Entity):
 
 
 
-for x in range(15):
-    for z in range(15):
+for x in range(40):
+    for z in range(40):
         GroundCube = Block(pos = (x*1.2, 1.2, z*1.2))
 
 
